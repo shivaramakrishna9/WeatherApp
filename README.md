@@ -1,5 +1,6 @@
-# WeatherApp
- A basic weather application project typically involves creating a user interface using HTML, CSS, and  JavaScript to display weather information for a specific location
+
+Weather App
+Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It uses HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
 Features
 Live Weather Data: Get up-to-date weather information for your current location or search for any city worldwide.
 5-Day Forecast: View a 5-day weather forecast for your chosen city.
